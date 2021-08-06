@@ -1,0 +1,86 @@
+
+a[href]{
+color: white;
+}
+body{
+  background-color: #9E3939;
+  font-family: Poppins;
+  margin: 0px;
+}
+td{
+  padding:25px 100px;
+}
+@media screen and (min-width:400px) {
+
+#bl-op{
+  padding-left: 90px;
+  padding-top:20px;
+  font-size: 35px;
+
+}
+#bl-op1{
+  padding-left: 130px;
+  padding-top:20px;
+  font-size: 35px;
+}
+}
+.btn {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  -webkit-box-shadow: 4px 1px 3px #4a424a;
+  -moz-box-shadow: 4px 1px 3px #4a424a;
+  box-shadow: 4px 1px 3px #4a424a;
+  font-family: Poppins;
+  color: #000000;
+  font-size: 22px;
+  height:45px;
+  width:60px;
+
+  border: solid #000000 1px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #CF3521;
+  text-decoration: none;
+}
+
+
+/* Navigation Bar */
+.navbar {
+  padding: 0 0 2px 0;
+  margin: 0 0 0 0;
+
+  width: 100% !important;
+
+}
+
+.nav-item {
+  padding: 0 20px;
+}
+
+.navbar-brand{
+  width:30%;
+}
+
+.nav-link{
+  padding: 0 3px 0 3px;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color:white;
+    float:right;
+
+}
+
+
+/* #navigation{
+  background-color: #812222;
+} */
