@@ -7,11 +7,14 @@ body{
   font-family: Poppins;
   margin: 0px;
 }
-td{
-  padding:25px 100px;
+table{
+ margin-left: 30px;
 }
-@media screen and (min-width:400px) {
 
+@media screen and (min-width:400px) {
+td{
+    padding:25px 60px;
+  }
 #bl-op{
   padding-left: 90px;
   padding-top:20px;
